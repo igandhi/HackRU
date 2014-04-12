@@ -1,0 +1,15 @@
+{
+  "name": "hackru",
+  "version": "0.0.0",
+  "description": "hackru",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^3.8.8",
+    "socket.io": "^0.9.16"
+  }
+}

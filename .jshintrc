@@ -1,0 +1,6 @@
+{
+	"undef": true,
+	"laxcomma": true,
+	"node": true,
+	"bitwise": true
+}
